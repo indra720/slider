@@ -1,0 +1,10 @@
+/* App.css */
+.slick-prev:before,
+.slick-next:before {
+  color: #00f; /* blue */
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  color: #f00; /* hover par red */
+}
